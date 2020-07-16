@@ -1,0 +1,2 @@
+<option value="Bang101" <?php if($b_id=='Bang101'){	echo 'selected'; }	?>Bang101</option>
+<option value="Bang102" <?php if($b_id=='Bang102'){	echo 'selected'; }	?>Bang102</option>
